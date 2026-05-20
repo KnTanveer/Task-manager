@@ -1,11 +1,15 @@
-### Features:
-- Inbox
-- Due dates
-- Projects
-- Today & Upcoming view
+### Features
 
-### Tech used:
-- A task manager app with vanila JavaScript only
-- CRUD operations and filter techniques 
-- Styled by css
-- Saves data on local storage 
+* Organize tasks with an Inbox system
+* Set and manage task due dates
+* Dedicated **Today** and **Upcoming** task views
+* Create and manage multiple projects
+
+### Tech Stack
+
+* Built with **Vanilla JavaScript**
+* Implements full **CRUD operations**
+* Uses filtering and dynamic rendering techniques
+* Styled with **CSS**
+* Persistent data storage using **Local Storage**
+
